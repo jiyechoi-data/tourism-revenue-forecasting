@@ -62,7 +62,7 @@ This project analyzes and forecasts monthly tourism revenue using time series an
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/tourism-revenue-analysis.git
+   git clone https://github.com/jiyechoi-data/tourism-revenue-analysis.git
 2. Open the tourism_revenue_analysis.sas script in SAS.
 3. Run the script step-by-step to reproduce the analysis.
 
